@@ -1,0 +1,6 @@
+DEVICE_TRACK_COUNT 32
+TRACK_NAME s/track/name s/track/@/name
+TRACK_SELECT b/track/select b/track/@/select
+TRACK_VOLUME f/track/volume/db f/track/@/volume/db
+
+
