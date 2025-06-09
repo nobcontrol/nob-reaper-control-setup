@@ -5,8 +5,11 @@ local grid_division, division = reaper.GetSetProjectGrid(0, false) -- Grid size 
 -- Get the current start and end of the loop selection
 local start_loop, end_loop = reaper.GetSet_LoopTimeRange(false, false, 0, 0, false)
 
--- Move the left loop point left by one grid size
-local new_end_loop = math.ceil((end_loop - 2*division)/(2*division))*2*division
+local endLoopInQN = reaper.TimeMap2_timeToQN(0, end_loop)
+
+local newEndLoopInQN = math.ceil((endLoopInQN - 4*division)/(4*division))*4*division
+local new_end_loop = reaper.TimeMap2_QNToTime(0, newEndLoopInQN);
+
 -- Ensure the new start loop point doesn't go below 0
 if new_end_loop < start_loop then
     new_end_loop = start_loop
