@@ -1,7 +1,7 @@
 {
   "sidePanelIsOpen": true,
-  "selectedProfile": "NaGGVemJtYFE9-HtQfGtM",
-  "quickAssignmentsViewportHeight": 281.40625,
+  "selectedProfile": "TUILLzZLxVsNzLKnSHfOk",
+  "quickAssignmentsViewportHeight": 156.40625,
   "profiles": [
     {
       "schemaVersion": 2,
@@ -1292,8 +1292,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.5720238095238087,
-          "change": 0.0004166669287669734,
+          "progress": 0,
+          "change": -0.0037499947271951517,
           "label": "Move Envelope Points"
         },
         {
@@ -1338,8 +1338,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.4720238095238088,
-          "change": 0.0004166684094532066,
+          "progress": 0.388095238095238,
+          "change": -0.0004166641038689883,
           "label": "Move Loop Fine"
         },
         {
@@ -1384,8 +1384,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9470238095238097,
-          "change": -0.0004166578502357409,
+          "progress": 0.0386904761904762,
+          "change": -0.0004166590303964265,
           "label": "Move Loop"
         },
         {
@@ -1430,8 +1430,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.7535714285714294,
-          "change": -0.0004166645333362775,
+          "progress": 0.9994047619047619,
+          "change": -0.0004166639672050285,
           "label": "Left Loop Point Fine"
         },
         {
@@ -1476,8 +1476,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.4440476190476186,
-          "change": -0.0004166603370688317,
+          "progress": 0.6416666666666666,
+          "change": -0.00041666091826230643,
           "label": "Right Loop Point Fine"
         },
         {
@@ -1522,8 +1522,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.5749999999999991,
-          "change": -0.0004166573581328015,
+          "progress": 0.8541666666666672,
+          "change": 0.0004166693169426553,
           "label": "Right Loop Point"
         },
         {
@@ -1568,8 +1568,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.07321428571428569,
-          "change": 0.0004166670613861078,
+          "progress": 0,
+          "change": -0.00041665899390792854,
           "label": "Left Loop Point"
         },
         {
@@ -1584,9 +1584,9 @@
                 "name": "nOb Midi",
                 "identifier": "\\\\?\\root#media#0002#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\\tevmidi0"
               },
-              "type": "7bitmidi",
+              "type": "osc",
               "ip": "127.0.0.1",
-              "port": 8000,
+              "port": 8003,
               "channel": 12,
               "cc": 24,
               "address": "/nob/control",
@@ -1607,15 +1607,15 @@
               ],
               "ccValueCW": 65,
               "ccValueCCW": 63,
-              "messageCW": "/nob/clockwise",
-              "messageCCW": "/nob/counterclockwise"
+              "messageCW": "/moveCursorRightOnePixel",
+              "messageCCW": "/moveCursorLeftOnePixel"
             }
           ],
           "sticky": false,
           "range": 2,
           "solo": "none",
-          "progress": 0.07312500000000013,
-          "change": 0.0004166738891401441,
+          "progress": 0.8329166666666665,
+          "change": -0.00041665969534221826,
           "label": "Scrub"
         },
         {
@@ -1660,8 +1660,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9994047619047619,
-          "change": -0.0004166584965847482,
+          "progress": 1,
+          "change": 0.001250000335872368,
           "label": "Vertical Scroll"
         },
         {
@@ -1707,7 +1707,7 @@
           "range": 0.7,
           "solo": "none",
           "progress": 0.9994047619047619,
-          "change": -0.0004166619056860482,
+          "change": -0.0004166647571297393,
           "label": "Horizontal Scroll"
         },
         {
@@ -1752,8 +1752,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.5535714285714295,
-          "change": 0.00041666850402719653,
+          "progress": 0.4000000000000005,
+          "change": 0.0004166729931677246,
           "label": "Vertical Zoom"
         },
         {
@@ -1798,8 +1798,8 @@
           "sticky": false,
           "range": 1,
           "solo": "none",
-          "progress": 0.0004166666666666667,
-          "change": 0.0004166764157886984,
+          "progress": 0.1212499999999999,
+          "change": 0.0004166697766359212,
           "label": "Horizontal Zoom"
         },
         {
@@ -1844,8 +1844,8 @@
           "sticky": false,
           "range": 1.3,
           "solo": "none",
-          "progress": 0.9756410256410257,
-          "change": -0.00041666013986604123,
+          "progress": 0.024358974358974345,
+          "change": -0.00041665909732147255,
           "label": "Playhead"
         },
         {
@@ -1890,8 +1890,8 @@
           "sticky": false,
           "range": 1.5,
           "solo": "none",
-          "progress": 0.19361111111111132,
-          "change": 0.0004166729326933595,
+          "progress": 0,
+          "change": -0.0004166652814330311,
           "label": "Move Contents Fine"
         },
         {
@@ -1936,8 +1936,8 @@
           "sticky": false,
           "range": 1.5,
           "solo": "none",
-          "progress": 0.4728174603174621,
-          "change": 0.0004166751719678939,
+          "progress": 0.5169841269841307,
+          "change": -0.0004166586316245162,
           "label": "Move Contents"
         },
         {
@@ -1982,8 +1982,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.027976190476190474,
-          "change": -0.0004166571300244969,
+          "progress": 0,
+          "change": -0.0008333239508814127,
           "label": "Trim Right Fine"
         },
         {
@@ -2028,8 +2028,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.11011904761904676,
-          "change": -0.0004166660667914205,
+          "progress": 0.5982142857142865,
+          "change": -0.0008333256781127835,
           "label": "Trim Left Fine"
         },
         {
@@ -2074,8 +2074,8 @@
           "sticky": false,
           "range": 1.5,
           "solo": "none",
-          "progress": 0.01749999999999998,
-          "change": -0.0004166579126966443,
+          "progress": 0,
+          "change": -0.0008333248432930753,
           "label": "Trim Right"
         },
         {
@@ -2120,8 +2120,8 @@
           "sticky": false,
           "range": 1.5,
           "solo": "none",
-          "progress": 0.9997222222222222,
-          "change": -0.00041665703080037334,
+          "progress": 0.9963888888888889,
+          "change": 0.0004166751609370538,
           "label": "Trim Left"
         },
         {
@@ -2166,8 +2166,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9244047619047601,
-          "change": 0.0004166734030796749,
+          "progress": 0,
+          "change": -0.0008333265615518226,
           "label": "Move items fine"
         },
         {
@@ -2212,8 +2212,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.8833333333333313,
-          "change": 0.00041667101023524827,
+          "progress": 0,
+          "change": -0.00041666321667821016,
           "label": "Move items"
         },
         {
@@ -2258,8 +2258,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 1,
-          "change": 0.0008333361283405189,
+          "progress": 0.12797619047619047,
+          "change": 0.000416676484853933,
           "label": "Item Volume"
         },
         {
@@ -2304,8 +2304,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.4285714285714304,
-          "change": 0.0004166726071280592,
+          "progress": 0,
+          "change": -0.000416658452171124,
           "label": "Fade Out"
         },
         {
@@ -2350,8 +2350,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9220238095238098,
-          "change": -0.00041665680027950245,
+          "progress": 0.8726190476190481,
+          "change": -0.0004166636277950866,
           "label": "Fade In"
         },
         {
@@ -2420,8 +2420,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.6464285714285719,
-          "change": -0.0004166577223596007,
+          "progress": 0.8261904761904761,
+          "change": -0.00041666146782755624,
           "label": "Track Panning"
         },
         {
@@ -2490,8 +2490,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.0005952380952380953,
-          "change": 0.0004166744627193069,
+          "progress": 0.20059523809523783,
+          "change": -0.00041666241696929263,
           "label": "Track Volume"
         }
       ],
@@ -4486,8 +4486,8 @@
           "sticky": false,
           "range": 1,
           "solo": "none",
-          "progress": 0.13041666666666638,
-          "change": -0.00041665730794019056,
+          "progress": 0.8954166666666779,
+          "change": -0.0004166583742647047,
           "label": "Change"
         }
       ],
@@ -4837,8 +4837,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0,
-          "change": -0.0004166567271501772,
+          "progress": 0.08630952380952382,
+          "change": -0.0004166644949748461,
           "label": "Velocity"
         },
         {
@@ -4883,8 +4883,8 @@
           "sticky": false,
           "range": 1,
           "solo": "none",
-          "progress": 0.0004166666666666667,
-          "change": 0.0004166713938164126,
+          "progress": 0,
+          "change": -0.00041666439162796727,
           "label": "Note Pitch"
         },
         {
@@ -4929,8 +4929,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.10773809523809535,
-          "change": -0.0004166570956756376,
+          "progress": 0.058333333333333584,
+          "change": -0.00041666604299780784,
           "label": "Note Length Fine"
         },
         {
@@ -4975,8 +4975,8 @@
           "sticky": false,
           "range": 1.1,
           "solo": "none",
-          "progress": 0.35346320346320365,
-          "change": -0.0008333299787137763,
+          "progress": 0.2746753246753258,
+          "change": -0.00041665924729320956,
           "label": "Note Length"
         },
         {
@@ -5021,8 +5021,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.457738095238094,
-          "change": -0.000416660266487701,
+          "progress": 0.43571428571428455,
+          "change": -0.0004166658376914574,
           "label": "Midi Horizontal Fine Position"
         },
         {
@@ -5067,8 +5067,8 @@
           "sticky": false,
           "range": 1.2,
           "solo": "none",
-          "progress": 0.019097222222222217,
-          "change": -0.0004166610732369007,
+          "progress": 0.03784722222222208,
+          "change": -0.0004166607498047717,
           "label": "Midi Horizontal Position"
         },
         {
@@ -5113,8 +5113,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.6547619047619057,
-          "change": -0.00041666315224072134,
+          "progress": 0.7476190476190478,
+          "change": -0.00041666242889574476,
           "label": "Pitch Cursor"
         },
         {
@@ -5205,8 +5205,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9720238095238096,
-          "change": -0.0008333274959206756,
+          "progress": 0.9571428571428573,
+          "change": 0.0008333343189469957,
           "label": "Scroll Horizontally"
         },
         {
@@ -5251,8 +5251,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9982142857142857,
-          "change": -0.0004166641062075108,
+          "progress": 0.9160714285714289,
+          "change": -0.0004166636823921517,
           "label": "Zoom Vertically"
         },
         {
@@ -5297,8 +5297,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.30654761904761874,
-          "change": 0.00041667391906085157,
+          "progress": 0.333928571428571,
+          "change": 0.000416675066816927,
           "label": "Zoom Horizontally"
         },
         {
@@ -5343,8 +5343,8 @@
           "sticky": false,
           "range": 1,
           "solo": "none",
-          "progress": 0.3508333333333333,
-          "change": -0.0004166622235135836,
+          "progress": 0.3458333333333327,
+          "change": 0.000416667481099462,
           "label": "Move cursor"
         }
       ],
@@ -6601,8 +6601,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.08154761904761904,
-          "change": -0.00041666208821420107,
+          "progress": 0.3791666666666662,
+          "change": -0.0004166574660671894,
           "label": "Input"
         },
         {
@@ -6671,8 +6671,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.00952380952380943,
-          "change": -0.0012499972634159452,
+          "progress": 0.09880952380952376,
+          "change": -0.00041666040429412656,
           "label": "Output"
         }
       ],
@@ -9932,8 +9932,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.8357142857142863,
-          "change": 0.0004166669141982159,
+          "progress": 1,
+          "change": 0.0004166671247904429,
           "label": "Assignment"
         },
         {
@@ -10002,8 +10002,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.16309523809523827,
-          "change": -0.00041666232703461916,
+          "progress": 0.26547619047619053,
+          "change": 0.0004166707235322954,
           "label": "Assignment"
         },
         {
@@ -10072,8 +10072,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0,
-          "change": -0.00041666392448049135,
+          "progress": 0.6976190476190476,
+          "change": 0.00041666824690077096,
           "label": "Assignment"
         },
         {
@@ -10142,8 +10142,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.0005952380952380953,
-          "change": 0.00041667598806117685,
+          "progress": 0.0821428571428571,
+          "change": 0.00041667312425796525,
           "label": "Assignment"
         },
         {
@@ -10212,8 +10212,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.6244047619047616,
-          "change": -0.0008333323705894461,
+          "progress": 1,
+          "change": 0.00041666977173656765,
           "label": "Assignment"
         },
         {
@@ -10282,8 +10282,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.6595238095238107,
-          "change": -0.0004166628882728722,
+          "progress": 0.7845238095238103,
+          "change": -0.0004166642568150563,
           "label": "Assignment"
         },
         {
@@ -10352,8 +10352,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.44226190476190674,
-          "change": -0.0004166635827612845,
+          "progress": 0.840476190476191,
+          "change": -0.0004166617974316135,
           "label": "Assignment"
         },
         {
@@ -10422,8 +10422,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.602380952380951,
-          "change": 0.0004166757494495234,
+          "progress": 0.7422619047619046,
+          "change": -0.00041665749283505783,
           "label": "Assignment"
         },
         {
@@ -10492,8 +10492,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.49047619047618934,
-          "change": -0.0004166569811186711,
+          "progress": 0.5517857142857139,
+          "change": -0.0004166574368904538,
           "label": "Assignment"
         },
         {
@@ -10562,8 +10562,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.538095238095237,
-          "change": 0.00041667239349562024,
+          "progress": 0.2184523809523806,
+          "change": 0.0004166726119243379,
           "label": "Assignment"
         },
         {
@@ -10632,8 +10632,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.0005952380952380953,
-          "change": 0.00041667306352775944,
+          "progress": 0.7648809523809532,
+          "change": 0.00041667485452952604,
           "label": "Assignment"
         },
         {
@@ -10702,8 +10702,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.40178571428571574,
-          "change": 0.00041666911171981,
+          "progress": 0.2267857142857127,
+          "change": -0.0004166644148611929,
           "label": "Assignment"
         },
         {
@@ -10772,8 +10772,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.25833333333333275,
-          "change": -0.0004166642618707922,
+          "progress": 0.5327380952380948,
+          "change": -0.0004166632795510395,
           "label": "Assignment"
         },
         {
@@ -10842,8 +10842,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.44880952380952577,
-          "change": -0.00041666100158898125,
+          "progress": 0.3398809523809497,
+          "change": 0.00041667207493005596,
           "label": "Assignment"
         },
         {
@@ -10912,8 +10912,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.25833333333333286,
-          "change": 0.0004166715231026735,
+          "progress": 0.029166666666667007,
+          "change": -0.0004166575983243287,
           "label": "Assignment"
         }
       ],
@@ -11104,10 +11104,10 @@
           },
           "config": {
             "owner": "reaper.exe",
-            "title": "VST3: FabFilter Pro-Q 3 (FabFilter) - Track 3 [2/2]",
+            "title": "VST3: FabFilter Pro-Q 3 (FabFilter) - Track 7 \"Kick\"",
             "childWindowRequirement": 0,
-            "x": 1226,
-            "y": 821,
+            "x": 1225,
+            "y": 802,
             "sensitivity": 5,
             "controlmode": 0,
             "subpixelaccuracy": 1,
@@ -11980,9 +11980,9 @@
           },
           "config": {
             "owner": "reaper.exe",
-            "title": "VST3: FabFilter Pro-C 2 (FabFilter) - Track 1 \"Mastering chain\" [6/7]",
+            "title": "VST3: FabFilter Pro-C 2 (FabFilter) - Track 35 \"Voice\" [3/4]",
             "childWindowRequirement": 0,
-            "x": 758,
+            "x": 752,
             "y": 641,
             "sensitivity": 5,
             "controlmode": 0,
@@ -13522,8 +13522,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9035714285714289,
-          "change": -0.000416664786428397,
+          "progress": 0.8321428571428577,
+          "change": -0.0004166657897434992,
           "label": "High Slope"
         },
         {
@@ -13592,8 +13592,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 1,
-          "change": 0.00041667637658685517,
+          "progress": 0.7541666666666675,
+          "change": -0.000416660033339692,
           "label": "Low Slope"
         },
         {
@@ -13662,8 +13662,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.21845238095238095,
-          "change": 0.00041667098390681107,
+          "progress": 1,
+          "change": 0.001250007544184718,
           "label": "High Crossover"
         },
         {
@@ -13732,8 +13732,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.0005952380952380953,
-          "change": 0.000416667334860066,
+          "progress": 0.3869047619047613,
+          "change": 0.00041667503755854165,
           "label": "Low Crossover"
         },
         {
@@ -13802,8 +13802,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.4678571428571431,
-          "change": -0.00041666603217942075,
+          "progress": 0.257142857142857,
+          "change": 0.0012500023477680664,
           "label": "Knee"
         },
         {
@@ -13872,8 +13872,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.23392857142857199,
-          "change": 0.00041667296790635043,
+          "progress": 0.5267857142857149,
+          "change": -0.0008333281597407934,
           "label": "Ratio"
         },
         {
@@ -13942,8 +13942,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.3880952380952384,
-          "change": -0.00041666057206185656,
+          "progress": 0.6660714285714298,
+          "change": 0.00041666782193933594,
           "label": "Output"
         },
         {
@@ -14012,8 +14012,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9994047619047619,
-          "change": -0.0004166649138398659,
+          "progress": 1,
+          "change": 0.0008333364236548049,
           "label": "Release"
         },
         {
@@ -14082,8 +14082,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0,
-          "change": -0.002083326428420912,
+          "progress": 0.21369047619047615,
+          "change": 0.00041667362774575663,
           "label": "Attack"
         },
         {
@@ -14152,8 +14152,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.14285714285714282,
-          "change": 0.0004166688056583466,
+          "progress": 0.30178571428571366,
+          "change": 0.0008333366387519741,
           "label": "Range"
         },
         {
@@ -14222,8 +14222,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.6374999999999994,
-          "change": 0.0004166734534413555,
+          "progress": 0.144642857142857,
+          "change": 0.00041667098660427344,
           "label": "Threshold"
         }
       ],
@@ -14547,7 +14547,7 @@
           "range": 0.7,
           "solo": "none",
           "progress": 0,
-          "change": -0.0004166640970976602,
+          "change": -0.004166665016065445,
           "label": "Tone 1"
         },
         {
@@ -14616,8 +14616,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.02202380952381133,
-          "change": -0.000416660520601236,
+          "progress": 0.8345238095238101,
+          "change": -0.0004166588071549244,
           "label": "Tone 2"
         },
         {
@@ -14686,8 +14686,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.15059523809523814,
-          "change": -0.0004166578698657476,
+          "progress": 0.6476190476190489,
+          "change": 0.0004166722150599378,
           "label": "Tone 3"
         },
         {
@@ -14756,8 +14756,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.8101190476190467,
-          "change": 0.0012500046753953363,
+          "progress": 0.35595238095238113,
+          "change": -0.002916657022293017,
           "label": "Tone 4"
         }
       ],
@@ -14863,54 +14863,41 @@
             "childWindowRequirement": 0,
             "x": 412,
             "y": 494,
-            "sensitivity": 6,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 1,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -15397,54 +15384,41 @@
             "childWindowRequirement": 0,
             "x": 612,
             "y": 542,
-            "sensitivity": 6,
             "controlmode": 0,
-            "subpixelaccuracy": 1,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 1,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 1,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         }
@@ -15650,54 +15624,41 @@
             "childWindowRequirement": 0,
             "x": 585,
             "y": 478,
-            "sensitivity": 7,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 7,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -16095,54 +16056,41 @@
             "childWindowRequirement": 0,
             "x": 420,
             "y": 329,
-            "sensitivity": 7,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 7,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -16273,54 +16221,41 @@
             "childWindowRequirement": 0,
             "x": 460,
             "y": 257,
-            "sensitivity": 7,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 7,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -16362,54 +16297,41 @@
             "childWindowRequirement": 0,
             "x": 412,
             "y": 219,
-            "sensitivity": 7,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 7,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -16540,54 +16462,41 @@
             "childWindowRequirement": 0,
             "x": 48,
             "y": 232,
-            "sensitivity": 7,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 7,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         }
@@ -16757,8 +16666,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.09821428571428564,
-          "change": -0.0004166658384900094,
+          "progress": 0.0005952380952380953,
+          "change": 0.00041667554453135624,
           "label": "Gain 1"
         },
         {
@@ -16827,8 +16736,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.9577380952380954,
-          "change": -0.0004166602854550315,
+          "progress": 0.8232142857142863,
+          "change": 0.00041667517109568187,
           "label": "Freq 1"
         },
         {
@@ -16967,8 +16876,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.23869047619047568,
-          "change": 0.0004166685658616183,
+          "progress": 0.11845238095238239,
+          "change": -0.002499997852820904,
           "label": "Gain 2"
         },
         {
@@ -17037,8 +16946,8 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.7184523809523807,
-          "change": 0.00041666931733494423,
+          "progress": 0.5273809523809524,
+          "change": -0.0004166567788050052,
           "label": "Freq 2"
         },
         {
@@ -17107,14 +17016,14 @@
           "sticky": false,
           "range": 0.7,
           "solo": "none",
-          "progress": 0.844642857142857,
-          "change": -0.0008333309352769014,
+          "progress": 0.9434523809523812,
+          "change": -0.0004166572600719729,
           "label": "Q 2"
         }
       ],
       "quickassignments": [
         {
-          "id": "YagScVgR5bniCUcqllsR4",
+          "id": "0ovJQLGsD3AXc1kafRqrH",
           "assignmentMechanism": {
             "deviceType": "keyboard"
           },
@@ -17177,6 +17086,82 @@
           "isfirst": true
         },
         {
+          "id": "YagScVgR5bniCUcqllsR4",
+          "assignmentMechanism": {
+            "deviceType": "keyboard"
+          },
+          "activationMechanism": {
+            "deviceType": "osc",
+            "keyboardActivation": {
+              "activationStyle": "trigger",
+              "hotkey": {
+                "keycode": -1,
+                "key": "",
+                "knob": false,
+                "ctrl": false,
+                "alt": false,
+                "shift": false,
+                "meta": false,
+                "leftSwitch": false,
+                "rightSwitch": false,
+                "mouseButton4": false,
+                "mouseButton5": false
+              }
+            },
+            "oscActivation": {
+              "activationStyle": "trigger",
+              "port": 8000,
+              "oscButton": {
+                "address": "/Predelay",
+                "triggerValue": 1
+              }
+            }
+          },
+          "config": {
+            "owner": "reaper.exe",
+            "title": "VST3: FabFilter Pro-R (FabFilter) - Track 1",
+            "childWindowRequirement": 0,
+            "x": 535,
+            "y": 962,
+            "controlmode": 0,
+            "operationmode": 1,
+            "direction": 0,
+            "cursorbehaviour": 0,
+            "primarymousebutton": 0,
+            "scrollwheelmode": 0,
+            "radius": 40,
+            "phase": -1.5707963705062866,
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 1,
+            "modifierkey": {
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
+          },
+          "isfirst": false
+        },
+        {
           "id": "UjWFzjvcwSqpdMY403siG",
           "assignmentMechanism": {
             "deviceType": "keyboard"
@@ -17214,54 +17199,41 @@
             "childWindowRequirement": 0,
             "x": 1193,
             "y": 968,
-            "sensitivity": 6,
             "controlmode": 1,
-            "subpixelaccuracy": 0,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 0,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 0,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -17481,54 +17453,41 @@
             "childWindowRequirement": 0,
             "x": 1028,
             "y": 220,
-            "sensitivity": 6,
             "controlmode": 0,
-            "subpixelaccuracy": 1,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 1,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 1,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -17659,54 +17618,41 @@
             "childWindowRequirement": 0,
             "x": 644,
             "y": 264,
-            "sensitivity": 6,
             "controlmode": 0,
-            "subpixelaccuracy": 1,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 1,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 1,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         },
@@ -17926,54 +17872,41 @@
             "childWindowRequirement": 0,
             "x": 95,
             "y": 239,
-            "sensitivity": 6,
             "controlmode": 0,
-            "subpixelaccuracy": 1,
-            "primarymousebutton": 0,
-            "direction": 0,
-            "directionstate": 0,
             "operationmode": 1,
+            "direction": 0,
             "cursorbehaviour": 0,
+            "primarymousebutton": 0,
             "scrollwheelmode": 0,
             "radius": 40,
             "phase": -1.5707963705062866,
-            "keypressCCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
-            "keypressCW": {
-              "key": "",
-              "keycode": -1,
-              "ctrl": false,
-              "alt": false,
-              "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
-            },
+            "directionstate": 0,
+            "sensitivity": 6,
+            "subpixelaccuracy": 1,
             "modifierkey": {
               "ctrl": false,
-              "alt": false,
               "shift": false,
-              "meta": false,
-              "leftSwitch": false,
-              "rightSwitch": false,
-              "mouseButton4": false,
-              "mouseButton5": false
+              "alt": false,
+              "meta": false
             },
-            "neoDirection": 1,
-            "neoCursorbehaviour": 1,
-            "selectedMidiOscAssignment": ""
+            "keypressCCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            },
+            "keypressCW": {
+              "keycode": -1,
+              "key": "",
+              "code": "undefined",
+              "ctrl": false,
+              "shift": false,
+              "alt": false,
+              "meta": false
+            }
           },
           "isfirst": false
         }
@@ -18712,7 +18645,7 @@
             "title": "VST3: FabFilter Pro-L 2 (FabFilter) - Track 1 \"Mastering chain\" [5/5]",
             "childWindowRequirement": 0,
             "x": 61,
-            "y": 407,
+            "y": 384,
             "sensitivity": 5,
             "controlmode": 0,
             "subpixelaccuracy": 1,
@@ -20719,6 +20652,394 @@
             "port": 8002,
             "address": "/SET activate_ssl 1"
           }
+        }
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "name": "Scroll",
+      "activationMechanism": {
+        "deviceType": "keyboard",
+        "keyboardActivation": {
+          "activationStyle": "trigger",
+          "hotkey": {
+            "keycode": 83,
+            "code": "KeyS",
+            "key": "s",
+            "knob": true,
+            "ctrl": false,
+            "alt": false,
+            "shift": false,
+            "meta": false,
+            "leftSwitch": false,
+            "rightSwitch": false,
+            "mouseButton4": false,
+            "mouseButton5": false
+          }
+        }
+      },
+      "autoactivate": false,
+      "windowWildcards": "",
+      "id": "4zOeTpE3QYkMICVJxCz8D",
+      "defaultControlConfig": {
+        "owner": "",
+        "title": "",
+        "childWindowRequirement": 0,
+        "x": 0,
+        "y": 0,
+        "sensitivity": 5,
+        "controlmode": 1,
+        "subpixelaccuracy": 1,
+        "primarymousebutton": 0,
+        "direction": 0,
+        "directionstate": 0,
+        "operationmode": 0,
+        "cursorbehaviour": 0,
+        "scrollwheelmode": 0,
+        "keypressCCW": {
+          "key": "",
+          "keycode": -1,
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "keypressCW": {
+          "key": "",
+          "keycode": -1,
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "modifierkey": {
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "neoDirection": 1,
+        "neoCursorbehaviour": 1,
+        "selectedMidiOscAssignment": ""
+      },
+      "midiassignments": [],
+      "quickassignments": [
+        {
+          "id": "MISA95WtHDv4T77nBTdVf",
+          "assignmentMechanism": {
+            "deviceType": "keyboard"
+          },
+          "activationMechanism": {
+            "deviceType": "keyboard"
+          },
+          "config": {
+            "owner": "",
+            "title": "",
+            "childWindowRequirement": 0,
+            "x": 0,
+            "y": 0,
+            "sensitivity": 5,
+            "controlmode": 0,
+            "subpixelaccuracy": 1,
+            "primarymousebutton": 0,
+            "direction": 0,
+            "directionstate": 0,
+            "operationmode": 0,
+            "cursorbehaviour": 0,
+            "scrollwheelmode": 0,
+            "keypressCCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "keypressCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "modifierkey": {
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "neoDirection": 1,
+            "neoCursorbehaviour": 1,
+            "selectedMidiOscAssignment": ""
+          },
+          "isfirst": true
+        }
+      ],
+      "alternativeControlOptions": [],
+      "activationOptions": {
+        "tryToBringWindowToFront": false,
+        "activationAction": {
+          "type": "none"
+        }
+      }
+    },
+    {
+      "schemaVersion": 2,
+      "name": "Davinci Resolve",
+      "activationMechanism": {
+        "deviceType": "keyboard"
+      },
+      "autoactivate": false,
+      "windowWildcards": "",
+      "id": "FMC87HAwt1mr-n2OV09IO",
+      "defaultControlConfig": {
+        "owner": "Resolve.exe",
+        "title": "Plugin UI Panel",
+        "childWindowRequirement": 0,
+        "x": 0,
+        "y": 0,
+        "sensitivity": 5,
+        "controlmode": 0,
+        "subpixelaccuracy": 1,
+        "primarymousebutton": 0,
+        "direction": 0,
+        "directionstate": 0,
+        "operationmode": 0,
+        "cursorbehaviour": 0,
+        "scrollwheelmode": 0,
+        "keypressCCW": {
+          "key": "",
+          "keycode": -1,
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "keypressCW": {
+          "key": "",
+          "keycode": -1,
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "modifierkey": {
+          "ctrl": false,
+          "alt": false,
+          "shift": false,
+          "meta": false,
+          "leftSwitch": false,
+          "rightSwitch": false,
+          "mouseButton4": false,
+          "mouseButton5": false
+        },
+        "neoDirection": 1,
+        "neoCursorbehaviour": 1,
+        "selectedMidiOscAssignment": ""
+      },
+      "midiassignments": [],
+      "quickassignments": [
+        {
+          "id": "pYXYbC_82wIZibTSLTV0g",
+          "assignmentMechanism": {
+            "deviceType": "keyboard"
+          },
+          "activationMechanism": {
+            "deviceType": "keyboard"
+          },
+          "config": {
+            "owner": "",
+            "title": "",
+            "childWindowRequirement": 0,
+            "x": 0,
+            "y": 0,
+            "sensitivity": 5,
+            "controlmode": 0,
+            "subpixelaccuracy": 1,
+            "primarymousebutton": 0,
+            "direction": 0,
+            "directionstate": 0,
+            "operationmode": 0,
+            "cursorbehaviour": 0,
+            "scrollwheelmode": 0,
+            "keypressCCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "keypressCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "modifierkey": {
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "neoDirection": 1,
+            "neoCursorbehaviour": 1,
+            "selectedMidiOscAssignment": ""
+          },
+          "isfirst": true
+        },
+        {
+          "id": "JVCDOgUbiTmAtEDBYR4wN",
+          "assignmentMechanism": {
+            "deviceType": "keyboard",
+            "keyboardActivation": {
+              "activationStyle": "trigger",
+              "hotkey": {
+                "keycode": 49,
+                "code": "Digit1",
+                "key": "1",
+                "knob": false,
+                "ctrl": false,
+                "alt": true,
+                "shift": false,
+                "meta": false,
+                "leftSwitch": false,
+                "rightSwitch": false,
+                "mouseButton4": false,
+                "mouseButton5": false
+              }
+            }
+          },
+          "activationMechanism": {
+            "deviceType": "keyboard",
+            "keyboardActivation": {
+              "activationStyle": "trigger",
+              "hotkey": {
+                "keycode": 49,
+                "code": "Digit1",
+                "key": "1",
+                "knob": true,
+                "ctrl": false,
+                "alt": false,
+                "shift": false,
+                "meta": false,
+                "leftSwitch": false,
+                "rightSwitch": false,
+                "mouseButton4": false,
+                "mouseButton5": false
+              }
+            }
+          },
+          "config": {
+            "owner": "Resolve.exe",
+            "title": "Plugin UI Panel",
+            "childWindowRequirement": 0,
+            "x": 473,
+            "y": 552,
+            "sensitivity": 5,
+            "controlmode": 0,
+            "subpixelaccuracy": 1,
+            "primarymousebutton": 0,
+            "direction": 0,
+            "directionstate": 0,
+            "operationmode": 1,
+            "cursorbehaviour": 0,
+            "scrollwheelmode": 0,
+            "radius": 40,
+            "phase": -1.5707963705062866,
+            "keypressCCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "keypressCW": {
+              "key": "",
+              "keycode": -1,
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "modifierkey": {
+              "ctrl": false,
+              "alt": false,
+              "shift": false,
+              "meta": false,
+              "leftSwitch": false,
+              "rightSwitch": false,
+              "mouseButton4": false,
+              "mouseButton5": false
+            },
+            "neoDirection": 1,
+            "neoCursorbehaviour": 1,
+            "selectedMidiOscAssignment": ""
+          },
+          "isfirst": false
+        }
+      ],
+      "alternativeControlOptions": [],
+      "activationOptions": {
+        "tryToBringWindowToFront": false,
+        "activationAction": {
+          "type": "none"
         }
       }
     }
